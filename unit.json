@@ -133,5 +133,125 @@
       "width": 2,
       "height": 2.4
     }
+  },
+  {
+    "id": 1,
+    "name": "1",
+    "facility_id": 1,
+    "sector_id": 2,
+    "size": {
+      "depth": 3,
+      "width": 2,
+      "height": 2.4
+    },
+    "door": {
+      "width": 2,
+      "height": 2.4
+    }
+  },
+  {
+    "id": 2,
+    "name": "2",
+    "facility_id": 1,
+    "sector_id": 2,
+    "size": {
+      "depth": 3,
+      "width": 2,
+      "height": 2.4
+    },
+    "door": {
+      "width": 2,
+      "height": 2.4
+    }
+  },
+  {
+    "id": 3,
+    "name": "3",
+    "facility_id": 1,
+    "sector_id": 2,
+    "size": {
+      "depth": 3,
+      "width": 2,
+      "height": 2.4
+    },
+    "door": {
+      "width": 2,
+      "height": 2.4
+    }
+  },
+  {
+    "id": 4,
+    "name": "4",
+    "facility_id": 1,
+    "sector_id": 2,
+    "size": {
+      "depth": 3,
+      "width": 2,
+      "height": 2.4
+    },
+    "door": {
+      "width": 2,
+      "height": 2.4
+    }
+  },
+  {
+    "id": 5,
+    "name": "5",
+    "facility_id": 1,
+    "sector_id": 2,
+    "size": {
+      "depth": 3,
+      "width": 2,
+      "height": 2.4
+    },
+    "door": {
+      "width": 2,
+      "height": 2.4
+    }
+  },
+  {
+    "id": 6,
+    "name": "6",
+    "facility_id": 1,
+    "sector_id": 2,
+    "size": {
+      "depth": 3,
+      "width": 2,
+      "height": 2.4
+    },
+    "door": {
+      "width": 2,
+      "height": 2.4
+    }
+  },
+  {
+    "id": 7,
+    "name": "7",
+    "facility_id": 1,
+    "sector_id": 2,
+    "size": {
+      "depth": 3,
+      "width": 2,
+      "height": 2.4
+    },
+    "door": {
+      "width": 2,
+      "height": 2.4
+    }
+  },
+  {
+    "id": 8,
+    "name": "8",
+    "facility_id": 1,
+    "sector_id": 2,
+    "size": {
+      "depth": 3,
+      "width": 2,
+      "height": 2.4
+    },
+    "door": {
+      "width": 2,
+      "height": 2.4
+    }
   }
 ]
