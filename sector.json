@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "facility_id": 1,
+    "name": "A"
+  },
+  {
+    "id": 2,
+    "facility_id": 1,
+    "name": "B"
+  },
+  {
+    "id": 3,
+    "facility_id": 1,
+    "name": "C"
+  }
+]
