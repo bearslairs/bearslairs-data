@@ -23,6 +23,10 @@
       "description": [
         "a safe place for snowboards, skis, winter gear and boots"
       ],
+      "icon": {
+        "url": "./img/baby-bear-icon.png",
+        "alt": "baby bear icon"
+      },
       "image": {
         "url": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/ski-storage.png",
         "alt": "baby bear lockers"
@@ -72,6 +76,10 @@
       "description": [
         "space for bicycles, boxes, small furniture and luggage"
       ],
+      "icon": {
+        "url": "./img/mama-bear-icon.png",
+        "alt": "mama bear icon"
+      },
       "image": {
         "url": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/cube-storage.png",
         "alt": "mama bear lockers"
@@ -125,6 +133,10 @@
         "our largest locker.",
         "big enough for a quad bike and tool shop."
       ],
+      "icon": {
+        "url": "./img/papa-bear-icon.png",
+        "alt": "papa bear icon"
+      },
       "image": {
         "url": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/motorcycle-storage.png",
         "alt": "papa bear lockers"
