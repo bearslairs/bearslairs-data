@@ -24,7 +24,10 @@
         "our largest locker.",
         "big enough for a quad bike and tool shop."
       ],
-      "image": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/motorcycle-storage.png",
+      "image": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/ski-storage.png",
+        "alt": "baby bear lockers"
+      },
       "button": {
         "text": "book now"
       },
@@ -77,7 +80,10 @@
       "description": [
         "space for bicycles, boxes, small furniture and luggage"
       ],
-      "image": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/cube-storage.png",
+      "image": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/cube-storage.png",
+        "alt": "mama bear lockers"
+      },
       "button": {
         "text": "book now"
       },
@@ -127,7 +133,10 @@
         "our largest locker.",
         "big enough for a quad bike and tool shop."
       ],
-      "image": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/motorcycle-storage.png",
+      "image": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/motorcycle-storage.png",
+        "alt": "papa bear lockers"
+      },
       "button": {
         "text": "book now"
       },
