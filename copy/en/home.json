@@ -24,11 +24,11 @@
         "a safe place for snowboards, skis, winter gear and boots"
       ],
       "icon": {
-        "url": "./img/baby-bear-icon.png",
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/baby-bear-icon.png",
         "alt": "baby bear icon"
       },
       "image": {
-        "url": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/ski-storage.png",
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/ski-storage.png",
         "alt": "baby bear lockers"
       },
       "button": {
@@ -77,11 +77,11 @@
         "space for bicycles, boxes, small furniture and luggage"
       ],
       "icon": {
-        "url": "./img/mama-bear-icon.png",
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/mama-bear-icon.png",
         "alt": "mama bear icon"
       },
       "image": {
-        "url": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/cube-storage.png",
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/cube-storage.png",
         "alt": "mama bear lockers"
       },
       "button": {
@@ -134,11 +134,11 @@
         "big enough for a quad bike and tool shop."
       ],
       "icon": {
-        "url": "./img/papa-bear-icon.png",
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/papa-bear-icon.png",
         "alt": "papa bear icon"
       },
       "image": {
-        "url": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/motorcycle-storage.png",
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/motorcycle-storage.png",
         "alt": "papa bear lockers"
       },
       "button": {
