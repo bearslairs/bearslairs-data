@@ -1,0 +1,169 @@
+{
+  "carousel": [
+    {
+      "title": "baby bear lockers",
+      "description": "skis, snowboards, boots and all your heavy winter gear",
+      "image": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/blue-lockers.png"
+    },
+    {
+      "title": "papa bear lockers",
+      "description": "big enough for big bikes and large tool collections",
+      "image": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/lockers.png"
+    }
+  ],
+  "cards": [
+    {
+      "title": "baby bear lockers",
+      "description": [
+        "our largest locker.",
+        "big enough for a quad bike and tool shop."
+      ],
+      "image": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/motorcycle-storage.png",
+      "button": {
+        "text": "book now"
+      },
+      "features": [
+        {
+          "text": "locker dimensions:",
+          "details": [
+            "0.5 metres deep",
+            "0.5 metres wide",
+            "2.3 metres high"
+          ]
+        },
+        {
+          "text": "door dimensions:",
+          "details": [
+            "0.4 metres wide",
+            "1.8 metres high"
+          ]
+        },
+        {
+          "text": "security features:",
+          "details": [
+            "external cctv recording",
+            "secure lock and clasp"
+          ]
+        },
+        {
+          "text": "typical use:",
+          "details": [
+            "skis and snowboards",
+            "bulky ski clothing & winter gear",
+            "boots and shoes",
+            "smaller luggage items",
+            "books",
+            "smaller electronic items",
+            "tools and equipment"
+          ]
+        },
+        {
+          "text": "facilities:",
+          "details": [
+            "internal light",
+            "power socket for trickle charger"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "mama bear lockers",
+      "description": [
+        "space for bicycles, boxes, small furniture and luggage"
+      ],
+      "image": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/cube-storage.png",
+      "button": {
+        "text": "book now"
+      },
+      "features": [
+        {
+          "text": "locker dimensions:",
+          "details": [
+            "2 metres deep",
+            "1 metre wide",
+            "2.3 metres high"
+          ]
+        },
+        {
+          "text": "door dimensions:",
+          "details": [
+            "0.9 metres wide",
+            "2 metres high"
+          ]
+        },
+        {
+          "text": "security features:",
+          "details": [
+            "external cctv recording",
+            "secure lock and clasp"
+          ]
+        },
+        {
+          "text": "typical use:",
+          "details": [
+            "bicycles and exercise equipment",
+            "tools and equipment",
+            "smaller furniture items",
+            "larger luggage, boxes or crates"
+          ]
+        },
+        {
+          "text": "facilities:",
+          "details": [
+            "internal light"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "papa bear lockers",
+      "description": [
+        "our largest locker.",
+        "big enough for a quad bike and tool shop."
+      ],
+      "image": "https://github.com/bearslairs/bearslairs-react/raw/c8d3881/src/img/motorcycle-storage.png",
+      "button": {
+        "text": "book now"
+      },
+      "features": [
+        {
+          "text": "locker dimensions:",
+          "details": [
+            "3 metres deep",
+            "2 metres wide",
+            "2.3 metres high"
+          ]
+        },
+        {
+          "text": "door dimensions:",
+          "details": [
+            "1.8 metres wide",
+            "2 metres high"
+          ]
+        },
+        {
+          "text": "security features:",
+          "details": [
+            "external cctv recording",
+            "heavy duty lock and clasp"
+          ]
+        },
+        {
+          "text": "typical use:",
+          "details": [
+            "motorcycles or quadbike garage",
+            "tools and workshop equipment",
+            "larger furniture items"
+          ]
+        },
+        {
+          "text": "facilities:",
+          "details": [
+            "internal light",
+            "power socket for trickle charger"
+          ]
+        }
+      ]
+    }
+  ]
+}
