@@ -38,7 +38,16 @@
       },
       "features": [
         {
-          "text": "locker dimensions:",
+          "text": "from bgn 15 per month",
+          "details": [
+            "12 months: bgn 180.00",
+            "6 months: bgn 120.00",
+            "3 months: bgn 75.00",
+            "1 month: bgn 30.00"
+          ]
+        },
+        {
+          "text": "0.575 cubic metres",
           "details": [
             "0.5 metres deep",
             "0.5 metres wide",
@@ -91,7 +100,16 @@
       },
       "features": [
         {
-          "text": "locker dimensions:",
+          "text": "from bgn 50 per month",
+          "details": [
+            "12 months: bgn 600.00",
+            "6 months: bgn 360.00",
+            "3 months: bgn 210.00",
+            "1 month: bgn 80.00"
+          ]
+        },
+        {
+          "text": "4.6 cubic metres",
           "details": [
             "2 metres deep",
             "1 metre wide",
@@ -148,7 +166,16 @@
       },
       "features": [
         {
-          "text": "locker dimensions:",
+          "text": "from bgn 120 per month",
+          "details": [
+            "12 months: bgn 1440.00",
+            "6 months: bgn 840.00",
+            "3 months: bgn 480.00",
+            "1 month: bgn 180.00"
+          ]
+        },
+        {
+          "text": "13.8 cubic metres",
           "details": [
             "3 metres deep",
             "2 metres wide",
