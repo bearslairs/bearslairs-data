@@ -19,7 +19,29 @@
       }
     }
   ],
-  "blurbs": [],
+  "blurbs": [
+    {
+      "title": "simple access, when you need it",
+      "copy": [
+        "when you book and pay for your locker, a unique door access code is created just for you. each customer gets a different access code that will work during daytime hours for the duration of the locker booking.",
+        "every time your code is used to access the storage facility, we will send you an email so that you are aware of anyone accessing your locker, if you have shared your door access code with family or trusted friends.",
+        "individual lockers are secured with your own padlock. only you can decide who will have copies of your locker key and will have access to your secure locker. we do not keep copies of keys for booked lockers. if your keys are lost or stolen, we can remove the lock for a fee of bgn 20.00 but the lock will be destroyed.",
+        "you may access your locker between the hours of 8:00 and 22:00. please be considerate of the neighbours and do not make excessive noise if you need access to your locker after sunset and before sunrise. night access is restricted in consideration of our residential neighbours."
+      ]
+    },
+    {
+      "title": "secure, private lockers",
+      "copy": [
+        "our secure, private lockers give you complete peace of mind for your belongings. choose from our baby (small), mama (medium) and papa (large) bears lairs. each locker is secured with a lock that only you have keys for."
+      ]
+    },
+    {
+      "title": "economical bicycle and motorcycle storage",
+      "copy": [
+        "we've got your bikes covered too. if you just want an economical solution to keep your bike indoors and out of the wet weather, we offer bicycle and motorcycle storage in a shared, secure indoor space."
+      ]
+    }
+  ],
   "cards": [
     {
       "title": "бмедвежонок",
@@ -38,6 +60,19 @@
         "text": "заказать сейчас"
       },
       "features": [
+        {
+          "text": "from bgn 15 per month",
+          "details": [
+            "12 months: bgn 180.00",
+            "6 months: bgn 120.00",
+            "3 months: bgn 75.00",
+            "1 month: bgn 30.00"
+          ]
+        },
+        {
+          "text": "¼ of a square metre",
+          "details": []
+        },
         {
           "text": "Размеры шкафчика:",
           "details": [
@@ -92,6 +127,19 @@
       },
       "features": [
         {
+          "text": "from bgn 50 per month",
+          "details": [
+            "12 months: bgn 600.00",
+            "6 months: bgn 400.00",
+            "3 months: bgn 250.00",
+            "1 month: bgn 100.00"
+          ]
+        },
+        {
+          "text": "2 square metres",
+          "details": []
+        },
+        {
           "text": "Размеры шкафчика:",
           "details": [
             "Глубина 2 метра",
@@ -141,13 +189,26 @@
         "alt": "папа медведь icon"
       },
       "image": {
-        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/motorcycle-storage.png",
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/tool-storage.png",
         "alt": "папа медведь шкафчета"
       },
       "button": {
         "text": "заказать сейчас"
       },
       "features": [
+        {
+          "text": "from bgn 120 per month",
+          "details": [
+            "12 months: bgn 1440.00",
+            "6 months: bgn 960.00",
+            "3 months: bgn 600.00",
+            "1 month: bgn 240.00"
+          ]
+        },
+        {
+          "text": "6 square metres",
+          "details": []
+        },
         {
           "text": "Размеры шкафчика:",
           "details": [
@@ -183,6 +244,90 @@
           "details": [
             "внутренний свет",
             "розетка для зарядного устройства"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "the bicycle rack",
+      "description": [
+        "dry storage for bikes"
+      ],
+      "icon": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/baby-bear-icon.png",
+        "alt": "baby bear icon"
+      },
+      "image": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/cycle-storage.png",
+        "alt": "cycle rack"
+      },
+      "button": {
+        "text": "book now"
+      },
+      "features": [
+        {
+          "text": "from bgn 10 per month",
+          "details": [
+            "12 months: bgn 120.00",
+            "6 months: bgn 81.00",
+            "3 months: bgn 51.00",
+            "1 month: bgn 20.00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "enduro bay",
+      "description": [
+        "indoor storage for small to medium bikes up to 500cc"
+      ],
+      "icon": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/mama-bear-icon.png",
+        "alt": "mama bear icon"
+      },
+      "image": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/enduro-storage.png",
+        "alt": "enduro bay"
+      },
+      "button": {
+        "text": "book now"
+      },
+      "features": [
+        {
+          "text": "from bgn 30 per month",
+          "details": [
+            "12 months: bgn 360.00",
+            "6 months: bgn 240.00",
+            "3 months: bgn 150.00",
+            "1 month: bgn 60.00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "bike pro",
+      "description": [
+        "indoor storage for large motorcycles"
+      ],
+      "icon": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/papa-bear-icon.png",
+        "alt": "papa bear icon"
+      },
+      "image": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/chopper-storage.png",
+        "alt": "enduro bay"
+      },
+      "button": {
+        "text": "book now"
+      },
+      "features": [
+        {
+          "text": "from bgn 40 per month",
+          "details": [
+            "12 months: bgn 480.00",
+            "6 months: bgn 320.00",
+            "3 months: bgn 200.00",
+            "1 month: bgn 80.00"
           ]
         }
       ]
