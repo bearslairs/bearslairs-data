@@ -63,10 +63,10 @@
         {
           "text": "from bgn 15 lev per month",
           "details": [
-            "1 year: bgn 180.00",
-            "6 months: bgn 120.00",
-            "3 months: bgn 75.00",
-            "1 month: bgn 30.00"
+            "1 year: bgn 180.00 lev",
+            "6 months: bgn 120.00 lev",
+            "3 months: bgn 75.00 lev",
+            "1 month: bgn 30.00 lev"
           ]
         },
         {
@@ -129,10 +129,10 @@
         {
           "text": "from bgn 50 lev per month",
           "details": [
-            "1 year: bgn 600.00",
-            "6 months: bgn 400.00",
-            "3 months: bgn 250.00",
-            "1 month: bgn 100.00"
+            "1 year: bgn 600.00 lev",
+            "6 months: bgn 400.00 lev",
+            "3 months: bgn 250.00 lev",
+            "1 month: bgn 100.00 lev"
           ]
         },
         {
@@ -199,10 +199,10 @@
         {
           "text": "from bgn 120 lev per month",
           "details": [
-            "1 year: bgn 1440.00",
-            "6 months: bgn 960.00",
-            "3 months: bgn 600.00",
-            "1 month: bgn 240.00"
+            "1 year: bgn 1440.00 lev",
+            "6 months: bgn 960.00 lev",
+            "3 months: bgn 600.00 lev",
+            "1 month: bgn 240.00 lev"
           ]
         },
         {
@@ -268,10 +268,10 @@
         {
           "text": "from bgn 10 lev per month",
           "details": [
-            "1 year: bgn 120.00",
-            "6 months: bgn 81.00",
-            "3 months: bgn 51.00",
-            "1 month: bgn 20.00"
+            "1 year: bgn 120.00 lev",
+            "6 months: bgn 81.00 lev",
+            "3 months: bgn 51.00 lev",
+            "1 month: bgn 20.00 lev"
           ]
         }
       ]
@@ -296,10 +296,10 @@
         {
           "text": "from bgn 30 lev per month",
           "details": [
-            "1 year: bgn 360.00",
-            "6 months: bgn 240.00",
-            "3 months: bgn 150.00",
-            "1 month: bgn 60.00"
+            "1 year: bgn 360.00 lev",
+            "6 months: bgn 240.00 lev",
+            "3 months: bgn 150.00 lev",
+            "1 month: bgn 60.00 lev"
           ]
         }
       ]
@@ -324,10 +324,10 @@
         {
           "text": "from bgn 40 lev per month",
           "details": [
-            "1 year: bgn 480.00",
-            "6 months: bgn 320.00",
-            "3 months: bgn 200.00",
-            "1 month: bgn 80.00"
+            "1 year: bgn 480.00 lev",
+            "6 months: bgn 320.00 lev",
+            "3 months: bgn 200.00 lev",
+            "1 month: bgn 80.00 lev"
           ]
         }
       ]
