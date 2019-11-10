@@ -34,11 +34,17 @@
       "copy": [
         "our secure, private lockers give you complete peace of mind for your belongings. choose from our baby (small), mama (medium) and papa (large) bears lairs. each locker is secured with a lock that only you have keys for."
       ]
+    },
+    {
+      "title": "economical bike storage",
+      "copy": [
+        "we've got your bikes covered too. if you just want an economical solution to keep your bike indoors and out of the wet weather, we offer bicycle and motorcycle storage in a shared, secure indoor space."
+      ]
     }
   ],
   "cards": [
     {
-      "title": "baby bear",
+      "title": "baby bear's lair",
       "description": [
         "a safe place for snowboards, skis, winter gear and boots"
       ],
@@ -104,7 +110,7 @@
       ]
     },
     {
-      "title": "mama bear",
+      "title": "mama bear's lair",
       "description": [
         "space for bicycles, boxes, small furniture and luggage"
       ],
@@ -124,9 +130,9 @@
           "text": "from bgn 50 per month",
           "details": [
             "12 months: bgn 600.00",
-            "6 months: bgn 360.00",
-            "3 months: bgn 210.00",
-            "1 month: bgn 80.00"
+            "6 months: bgn 400.00",
+            "3 months: bgn 250.00",
+            "1 month: bgn 100.00"
           ]
         },
         {
@@ -173,7 +179,7 @@
       ]
     },
     {
-      "title": "papa bear",
+      "title": "papa bear's lair",
       "description": [
         "our largest locker.",
         "big enough for a quad bike and tool shop."
@@ -194,9 +200,9 @@
           "text": "from bgn 120 per month",
           "details": [
             "12 months: bgn 1440.00",
-            "6 months: bgn 840.00",
-            "3 months: bgn 480.00",
-            "1 month: bgn 180.00"
+            "6 months: bgn 960.00",
+            "3 months: bgn 600.00",
+            "1 month: bgn 240.00"
           ]
         },
         {
@@ -238,6 +244,90 @@
           "details": [
             "internal light",
             "power for trickle charger"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "the bicycle rack",
+      "description": [
+        "dry storage for bikes"
+      ],
+      "icon": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/baby-bear-icon.png",
+        "alt": "baby bear icon"
+      },
+      "image": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/cycle-storage.png",
+        "alt": "cycle rack"
+      },
+      "button": {
+        "text": "book now"
+      },
+      "features": [
+        {
+          "text": "from bgn 10 per month",
+          "details": [
+            "12 months: bgn 120.00",
+            "6 months: bgn 81.00",
+            "3 months: bgn 51.00",
+            "1 month: bgn 20.00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "enduro bay",
+      "description": [
+        "indoor storage for small to medium bikes up to 500cc"
+      ],
+      "icon": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/mama-bear-icon.png",
+        "alt": "mama bear icon"
+      },
+      "image": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/enduro-storage.png",
+        "alt": "enduro bay"
+      },
+      "button": {
+        "text": "book now"
+      },
+      "features": [
+        {
+          "text": "from bgn 30 per month",
+          "details": [
+            "12 months: bgn 360.00",
+            "6 months: bgn 240.00",
+            "3 months: bgn 150.00",
+            "1 month: bgn 60.00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "bike pro",
+      "description": [
+        "indoor storage for large motorcycles"
+      ],
+      "icon": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/papa-bear-icon.png",
+        "alt": "papa bear icon"
+      },
+      "image": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/chopper-storage.png",
+        "alt": "enduro bay"
+      },
+      "button": {
+        "text": "book now"
+      },
+      "features": [
+        {
+          "text": "from bgn 40 per month",
+          "details": [
+            "12 months: bgn 480.00",
+            "6 months: bgn 320.00",
+            "3 months: bgn 200.00",
+            "1 month: bgn 80.00"
           ]
         }
       ]
