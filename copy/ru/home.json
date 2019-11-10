@@ -254,7 +254,7 @@
         "dry storage for bikes"
       ],
       "icon": {
-        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/baby-bear-icon.png",
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/bicycle-icon.png",
         "alt": "baby bear icon"
       },
       "image": {
@@ -282,7 +282,7 @@
         "indoor storage for small to medium bikes up to 500cc"
       ],
       "icon": {
-        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/mama-bear-icon.png",
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/enduro-icon.png",
         "alt": "mama bear icon"
       },
       "image": {
@@ -310,7 +310,7 @@
         "indoor storage for large motorcycles"
       ],
       "icon": {
-        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/papa-bear-icon.png",
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/motorcycle-icon.png",
         "alt": "papa bear icon"
       },
       "image": {
