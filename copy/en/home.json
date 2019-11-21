@@ -62,7 +62,13 @@
         "alt": "baby bear lockers"
       },
       "button": {
-        "text": "available december 2019"
+        "text": "available december 2019",
+        "link": {
+          "pathname": "/book",
+          "query": {
+            "locker": "small",
+          }
+        }
       },
       "features": [
         {
@@ -128,7 +134,13 @@
         "alt": "mama bear lockers"
       },
       "button": {
-        "text": "available december 2019"
+        "text": "available december 2019",
+        "link": {
+          "pathname": "/book",
+          "query": {
+            "locker": "medium",
+          }
+        }
       },
       "features": [
         {
@@ -198,7 +210,13 @@
         "alt": "papa bear lockers"
       },
       "button": {
-        "text": "available december 2019"
+        "text": "available december 2019",
+        "link": {
+          "pathname": "/book",
+          "query": {
+            "locker": "large",
+          }
+        }
       },
       "features": [
         {
@@ -260,14 +278,20 @@
       ],
       "icon": {
         "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/bicycle-icon.png",
-        "alt": "baby bear icon"
+        "alt": "bicycle icon"
       },
       "image": {
         "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/cycle-storage.png",
         "alt": "cycle rack"
       },
       "button": {
-        "text": "available december 2019"
+        "text": "available december 2019",
+        "link": {
+          "pathname": "/book",
+          "query": {
+            "locker": "bicycle",
+          }
+        }
       },
       "features": [
         {
@@ -288,14 +312,20 @@
       ],
       "icon": {
         "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/enduro-icon.png",
-        "alt": "mama bear icon"
+        "alt": "enduro icon"
       },
       "image": {
         "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/enduro-storage.png",
         "alt": "enduro bay"
       },
       "button": {
-        "text": "book now"
+        "text": "book now",
+        "link": {
+          "pathname": "/book",
+          "query": {
+            "locker": "motorcycle",
+          }
+        }
       },
       "features": [
         {
@@ -316,14 +346,20 @@
       ],
       "icon": {
         "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/motorcycle-icon.png",
-        "alt": "papa bear icon"
+        "alt": "motorcycle icon"
       },
       "image": {
         "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/chopper-storage.png",
-        "alt": "enduro bay"
+        "alt": "bike pro"
       },
       "button": {
-        "text": "book now"
+        "text": "book now",
+        "link": {
+          "pathname": "/book",
+          "query": {
+            "locker": "large-motorcycle",
+          }
+        }
       },
       "features": [
         {
