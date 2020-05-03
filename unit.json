@@ -1,257 +1,152 @@
 [
   {
-    "id": 1,
+    "id": "33e31650d10f",
     "name": "1",
-    "facility_id": 1,
-    "sector_id": 1,
+    "facility_id": "2be903176ffc",
+    "sector_id": "9307af70d062",
     "size": {
-      "depth": 3,
+      "depth": 2.5,
       "width": 2,
       "height": 2.4
     },
     "door": {
       "width": 2,
-      "height": 2.4
+      "height": 1.9
     }
   },
   {
-    "id": 2,
+    "id": "bb04c6154b60",
     "name": "2",
-    "facility_id": 1,
-    "sector_id": 1,
+    "facility_id": "2be903176ffc",
+    "sector_id": "9307af70d062",
     "size": {
-      "depth": 3,
+      "depth": 2.5,
       "width": 2,
       "height": 2.4
     },
     "door": {
       "width": 2,
-      "height": 2.4
+      "height": 1.9
     }
   },
   {
-    "id": 3,
+    "id": "6b84c653d9a9",
     "name": "3",
-    "facility_id": 1,
-    "sector_id": 1,
+    "facility_id": "2be903176ffc",
+    "sector_id": "9307af70d062",
     "size": {
-      "depth": 3,
-      "width": 2,
+      "depth": 2.5,
+      "width": 2.7,
       "height": 2.4
     },
     "door": {
-      "width": 2,
-      "height": 2.4
+      "width": 1,
+      "height": 1.9
     }
   },
   {
-    "id": 4,
+    "id": "17992819f664",
     "name": "4",
-    "facility_id": 1,
-    "sector_id": 1,
+    "facility_id": "2be903176ffc",
+    "sector_id": "9307af70d062",
     "size": {
-      "depth": 3,
+      "depth": 2.5,
       "width": 2,
       "height": 2.4
     },
     "door": {
       "width": 2,
-      "height": 2.4
+      "height": 1.9
     }
   },
   {
-    "id": 5,
+    "id": "d7e99eb841ef",
     "name": "5",
-    "facility_id": 1,
-    "sector_id": 1,
+    "facility_id": "2be903176ffc",
+    "sector_id": "9307af70d062",
     "size": {
-      "depth": 3,
+      "depth": 2.5,
       "width": 2,
       "height": 2.4
     },
     "door": {
       "width": 2,
-      "height": 2.4
+      "height": 1.9
     }
   },
   {
-    "id": 6,
-    "name": "6",
-    "facility_id": 1,
-    "sector_id": 1,
-    "size": {
-      "depth": 3,
-      "width": 2,
-      "height": 2.4
-    },
-    "door": {
-      "width": 2,
-      "height": 2.4
-    }
-  },
-  {
-    "id": 7,
-    "name": "7",
-    "facility_id": 1,
-    "sector_id": 1,
-    "size": {
-      "depth": 3,
-      "width": 2,
-      "height": 2.4
-    },
-    "door": {
-      "width": 2,
-      "height": 2.4
-    }
-  },
-  {
-    "id": 8,
-    "name": "8",
-    "facility_id": 1,
-    "sector_id": 1,
-    "size": {
-      "depth": 3,
-      "width": 2,
-      "height": 2.4
-    },
-    "door": {
-      "width": 2,
-      "height": 2.4
-    }
-  },
-  {
-    "id": 9,
-    "name": "9",
-    "facility_id": 1,
-    "sector_id": 1,
-    "size": {
-      "depth": 2,
-      "width": 8,
-      "height": 2.4
-    },
-    "door": {
-      "width": 2,
-      "height": 2.4
-    }
-  },
-  {
-    "id": 1,
+    "id": "f7bef6788bea",
     "name": "1",
-    "facility_id": 1,
-    "sector_id": 2,
+    "facility_id": "2be903176ffc",
+    "sector_id": "3f940b98ee41",
     "size": {
-      "depth": 3,
+      "depth": 2.5,
       "width": 2,
       "height": 2.4
     },
     "door": {
       "width": 2,
-      "height": 2.4
+      "height": 1.9
     }
   },
   {
-    "id": 2,
+    "id": "271f0c479e79",
     "name": "2",
-    "facility_id": 1,
-    "sector_id": 2,
+    "facility_id": "2be903176ffc",
+    "sector_id": "3f940b98ee41",
     "size": {
-      "depth": 3,
+      "depth": 2.5,
       "width": 2,
       "height": 2.4
     },
     "door": {
       "width": 2,
-      "height": 2.4
+      "height": 1.9
     }
   },
   {
-    "id": 3,
+    "id": "9744701f203d",
     "name": "3",
-    "facility_id": 1,
-    "sector_id": 2,
+    "facility_id": "2be903176ffc",
+    "sector_id": "3f940b98ee41",
     "size": {
-      "depth": 3,
-      "width": 2,
+      "depth": 2.5,
+      "width": 2.7,
       "height": 2.4
     },
     "door": {
-      "width": 2,
-      "height": 2.4
+      "width": 1,
+      "height": 1.9
     }
   },
   {
-    "id": 4,
+    "id": "a3665ff76469",
     "name": "4",
-    "facility_id": 1,
-    "sector_id": 2,
+    "facility_id": "2be903176ffc",
+    "sector_id": "3f940b98ee41",
     "size": {
-      "depth": 3,
+      "depth": 2.5,
       "width": 2,
       "height": 2.4
     },
     "door": {
       "width": 2,
-      "height": 2.4
+      "height": 1.9
     }
   },
   {
-    "id": 5,
+    "id": "23b12d9766d8",
     "name": "5",
-    "facility_id": 1,
-    "sector_id": 2,
+    "facility_id": "2be903176ffc",
+    "sector_id": "3f940b98ee41",
     "size": {
-      "depth": 3,
+      "depth": 2.5,
       "width": 2,
       "height": 2.4
     },
     "door": {
       "width": 2,
-      "height": 2.4
-    }
-  },
-  {
-    "id": 6,
-    "name": "6",
-    "facility_id": 1,
-    "sector_id": 2,
-    "size": {
-      "depth": 3,
-      "width": 2,
-      "height": 2.4
-    },
-    "door": {
-      "width": 2,
-      "height": 2.4
-    }
-  },
-  {
-    "id": 7,
-    "name": "7",
-    "facility_id": 1,
-    "sector_id": 2,
-    "size": {
-      "depth": 3,
-      "width": 2,
-      "height": 2.4
-    },
-    "door": {
-      "width": 2,
-      "height": 2.4
-    }
-  },
-  {
-    "id": 8,
-    "name": "8",
-    "facility_id": 1,
-    "sector_id": 2,
-    "size": {
-      "depth": 3,
-      "width": 2,
-      "height": 2.4
-    },
-    "door": {
-      "width": 2,
-      "height": 2.4
+      "height": 1.9
     }
   }
 ]
