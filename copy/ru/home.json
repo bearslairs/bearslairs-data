@@ -61,9 +61,18 @@
     {
       "title": "a strong, secure and dry facility that is partially underground",
       "copy": [
-        "we are located at the southern tip of bansko, close to the mountain.",
-        "our facility is the solid concrete structure directly below the tennis courts in front of royal bansko aparthotel.",
-        "the self-storage lockers are behind the three white steel doors on the floor immediately below the tennis courts."
+        {
+          "text": "we are located at the southern tip of bansko, close to the mountain.",
+          "image": "/facility-1.png"
+        },
+        {
+          "text": "our facility is the solid concrete structure directly below the tennis courts in front of royal bansko aparthotel.",
+          "image": "/facility-2.png"
+        },
+        {
+          "text": "the self-storage lockers are behind the three white steel doors on the floor immediately below the tennis courts.",
+          "image": "/facility-3.png"
+        }
       ]
     }
   ],
