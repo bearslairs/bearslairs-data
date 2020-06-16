@@ -91,7 +91,7 @@
         "alt": "бмедвежонок шкафчета"
       },
       "button": {
-        "text": "available jan or feb 2020",
+        "text": "available august 2020",
         "link": {
           "pathname": "/book",
           "query": {
@@ -163,7 +163,7 @@
         "alt": "мама медведь шкафчета"
       },
       "button": {
-        "text": "available jan or feb 2020",
+        "text": "available august 2020",
         "link": {
           "pathname": "/book",
           "query": {
@@ -239,7 +239,7 @@
         "alt": "папа медведь шкафчета"
       },
       "button": {
-        "text": "available jan or feb 2020",
+        "text": "available august 2020",
         "link": {
           "pathname": "/book",
           "query": {
@@ -314,7 +314,7 @@
         "alt": "cycle rack"
       },
       "button": {
-        "text": "available jan or feb 2020",
+        "text": "available august 2020",
         "link": {
           "pathname": "/book",
           "query": {
