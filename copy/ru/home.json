@@ -93,7 +93,7 @@
       "button": {
         "text": "available august 2020",
         "link": {
-          "pathname": "/book",
+          "pathname": "/book#baby+bear",
           "query": {
             "locker": "small"
           }
@@ -165,7 +165,7 @@
       "button": {
         "text": "available august 2020",
         "link": {
-          "pathname": "/book",
+          "pathname": "/book#mama+bear",
           "query": {
             "locker": "medium"
           }
@@ -241,7 +241,7 @@
       "button": {
         "text": "available august 2020",
         "link": {
-          "pathname": "/book",
+          "pathname": "/book#papa+bear",
           "query": {
             "locker": "large"
           }
@@ -316,7 +316,7 @@
       "button": {
         "text": "available august 2020",
         "link": {
-          "pathname": "/book",
+          "pathname": "/book#bike",
           "query": {
             "locker": "bicycle"
           }
@@ -350,7 +350,7 @@
       "button": {
         "text": "book now",
         "link": {
-          "pathname": "/book",
+          "pathname": "/book#bike",
           "query": {
             "locker": "motorcycle"
           }
@@ -384,7 +384,7 @@
       "button": {
         "text": "book now",
         "link": {
-          "pathname": "/book",
+          "pathname": "/book#bike",
           "query": {
             "locker": "large-motorcycle"
           }
