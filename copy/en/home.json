@@ -101,12 +101,12 @@
       },
       "features": [
         {
-          "text": "from bgn 15 lev per month",
+          "text": "from лв 18 bgn per month",
           "details": [
-            "1 year: bgn 180.00 lev",
-            "6 months: bgn 120.00 lev",
-            "3 months: bgn 75.00 lev",
-            "1 month: bgn 30.00 lev"
+            "1 year: лв 216.00 bgn",
+            "6 months: лв 144.00 bgn",
+            "3 months: лв 90.00 bgn",
+            "1 month: лв 36.00 bgn"
           ]
         },
         {
@@ -173,12 +173,12 @@
       },
       "features": [
         {
-          "text": "from bgn 50 lev per month",
+          "text": "from лв 60 bgn per month",
           "details": [
-            "1 year: bgn 600.00 lev",
-            "6 months: bgn 400.00 lev",
-            "3 months: bgn 250.00 lev",
-            "1 month: bgn 100.00 lev"
+            "1 year: лв 720.00 bgn",
+            "6 months: лв 480.00 bgn",
+            "3 months: лв 300.00 bgn",
+            "1 month: лв 120.00 bgn"
           ]
         },
         {
@@ -249,12 +249,12 @@
       },
       "features": [
         {
-          "text": "from bgn 120 lev per month",
+          "text": "from лв 144 bgn per month",
           "details": [
-            "1 year: bgn 1440.00 lev",
-            "6 months: bgn 960.00 lev",
-            "3 months: bgn 600.00 lev",
-            "1 month: bgn 240.00 lev"
+            "1 year: лв 1728.00 bgn",
+            "6 months: лв 1152.00 bgn",
+            "3 months: лв 720.00 bgn",
+            "1 month: лв 288.00 bgn"
           ]
         },
         {
@@ -324,12 +324,12 @@
       },
       "features": [
         {
-          "text": "from bgn 10 lev per month",
+          "text": "from лв 12 bgn per month",
           "details": [
-            "1 year: bgn 120.00 lev",
-            "6 months: bgn 81.00 lev",
-            "3 months: bgn 51.00 lev",
-            "1 month: bgn 20.00 lev"
+            "1 year: лв 144.00 bgn",
+            "6 months: лв 97.20 bgn",
+            "3 months: лв 61.20 bgn",
+            "1 month: лв 24.00 bgn"
           ]
         }
       ]
@@ -358,12 +358,12 @@
       },
       "features": [
         {
-          "text": "from bgn 30 lev per month",
+          "text": "from лв 36 bgn per month",
           "details": [
-            "1 year: bgn 360.00 lev",
-            "6 months: bgn 240.00 lev",
-            "3 months: bgn 150.00 lev",
-            "1 month: bgn 60.00 lev"
+            "1 year: лв 432.00 bgn",
+            "6 months: лв 288.00 bgn",
+            "3 months: лв 180.00 bgn",
+            "1 month: лв 72.00 bgn"
           ]
         }
       ]
@@ -392,12 +392,12 @@
       },
       "features": [
         {
-          "text": "from bgn 40 lev per month",
+          "text": "from лв 48 bgn per month",
           "details": [
-            "1 year: bgn 480.00 lev",
-            "6 months: bgn 320.00 lev",
-            "3 months: bgn 200.00 lev",
-            "1 month: bgn 80.00 lev"
+            "1 year: лв 576.00 bgn",
+            "6 months: лв 384.00 bgn",
+            "3 months: лв 240.00 bgn",
+            "1 month: лв 96.00 bgn"
           ]
         }
       ]
