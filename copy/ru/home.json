@@ -23,19 +23,19 @@
       "copy": [
         {
           "text": "when you book and pay for your locker, a unique door access code is created just for you. each customer gets a different access code that will work during daytime hours for the duration of the locker booking.",
-          "image": "/about-access.png"
+          "image": "/img/about-access.png"
         },
         {
           "text": "every time your code is used to access the storage facility, we will send you an email so that you are aware of anyone accessing your locker, if you have shared your door access code with family or trusted friends.",
-          "image": "/about-notify.png"
+          "image": "/img/about-notify.png"
         },
         {
           "text": "individual lockers are secured with your own padlock. only you can decide who will have copies of your locker key and will have access to your secure locker. we do not keep copies of keys for booked lockers. if your keys are lost or stolen, we can remove the lock for a fee of bgn 20.00 but the lock will be destroyed.",
-          "image": "/about-security.png"
+          "image": "/img/about-security.png"
         },
         {
           "text": "you may access your locker between the hours of 8:00 and 22:00. please be considerate of the neighbours and do not make excessive noise if you need access to your locker after sunset and before sunrise. night access is restricted in consideration of our residential neighbours.",
-          "image": "/about-time.png"
+          "image": "/img/about-time.png"
         }
       ]
     },
@@ -63,15 +63,15 @@
       "copy": [
         {
           "text": "we are located at the southern tip of bansko, close to the mountain.",
-          "image": "/facility-1.png"
+          "image": "/img/facility-1.png"
         },
         {
           "text": "our facility is the solid concrete structure directly below the tennis courts in front of royal bansko aparthotel.",
-          "image": "/facility-2.png"
+          "image": "/img/facility-2.png"
         },
         {
           "text": "the self-storage lockers are behind the three white steel doors on the floor immediately below the tennis courts.",
-          "image": "/facility-3.png"
+          "image": "/img/facility-3.png"
         }
       ]
     }
