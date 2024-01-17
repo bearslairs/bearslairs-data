@@ -101,7 +101,7 @@
       },
       "features": [
         {
-          "text": "from лв 18 bgn per month",
+          "text": "from лв 50 bgn per month",
           "details": []
         },
         {
@@ -168,7 +168,7 @@
       },
       "features": [
         {
-          "text": "from лв 60 bgn per month",
+          "text": "from лв 100 bgn per month",
           "details": []
         },
         {
@@ -233,7 +233,7 @@
       },
       "features": [
         {
-          "text": "from лв 144 bgn per month",
+          "text": "from лв 300 bgn per month",
           "details": []
         },
         {
@@ -288,7 +288,7 @@
       "button": {
         "text": "available august 2020",
         "link": {
-          "pathname": "/book#bike",
+          "pathname": "#",
           "query": {
             "locker": "bicycle"
           }
@@ -296,12 +296,9 @@
       },
       "features": [
         {
-          "text": "from лв 12 bgn per month",
+          "text": "from лв 200 bgn per year",
           "details": [
-            "1 year: лв 144.00 bgn",
-            "6 months: лв 97.20 bgn",
-            "3 months: лв 61.20 bgn",
-            "1 month: лв 24.00 bgn"
+            "1 year: лв 200.00 bgn"
           ]
         }
       ]
@@ -320,9 +317,9 @@
         "alt": "enduro bay"
       },
       "button": {
-        "text": "book now",
+        "text": "sold out",
         "link": {
-          "pathname": "/book#bike",
+          "pathname": "#",
           "query": {
             "locker": "motorcycle"
           }
@@ -330,12 +327,10 @@
       },
       "features": [
         {
-          "text": "from лв 36 bgn per month",
+          "text": "from лв 40 bgn per month",
           "details": [
-            "1 year: лв 432.00 bgn",
-            "6 months: лв 288.00 bgn",
-            "3 months: лв 180.00 bgn",
-            "1 month: лв 72.00 bgn"
+            "1 year: лв 440.00 bgn",
+            "1 month: лв 40.00 bgn"
           ]
         }
       ]
@@ -354,9 +349,9 @@
         "alt": "bike pro"
       },
       "button": {
-        "text": "book now",
+        "text": "sold out",
         "link": {
-          "pathname": "/book#bike",
+          "pathname": "#",
           "query": {
             "locker": "large-motorcycle"
           }
@@ -364,12 +359,10 @@
       },
       "features": [
         {
-          "text": "from лв 48 bgn per month",
+          "text": "from лв 40 bgn per month",
           "details": [
-            "1 year: лв 576.00 bgn",
-            "6 months: лв 384.00 bgn",
-            "3 months: лв 240.00 bgn",
-            "1 month: лв 96.00 bgn"
+            "1 year: лв 440.00 bgn",
+            "1 month: лв 40.00 bgn"
           ]
         }
       ]
