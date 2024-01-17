@@ -94,9 +94,9 @@
         "alt": "baby bear lockers"
       },
       "button": {
-        "text": "available august 2020",
+        "text": "sold out",
         "link": {
-          "pathname": "/book#baby+bear",
+          "pathname": "#",
           "query": {
             "locker": "small"
           }
@@ -161,9 +161,9 @@
         "alt": "mama bear lockers"
       },
       "button": {
-        "text": "available august 2020",
+        "text": "sold out",
         "link": {
-          "pathname": "/book#mama+bear",
+          "pathname": "#",
           "query": {
             "locker": "smal"
           }
@@ -226,9 +226,9 @@
         "alt": "papa bear lockers"
       },
       "button": {
-        "text": "available august 2020",
+        "text": "sold out",
         "link": {
-          "pathname": "/book#papa+bear",
+          "pathname": "#",
           "query": {
             "locker": "large"
           }
@@ -289,7 +289,7 @@
         "alt": "cycle rack"
       },
       "button": {
-        "text": "available august 2020",
+        "text": "sold out",
         "link": {
           "pathname": "#",
           "query": {
