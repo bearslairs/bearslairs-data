@@ -78,73 +78,6 @@
   ],
   "cards": [
     {
-      "title": "бебето го понесе",
-      "description": [
-        "безопасно място за сноуборд, ски, зимна екипировка и ботуши"
-      ],
-      "icon": {
-        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/baby-bear-icon.png",
-        "alt": "бебе мечка icon"
-      },
-      "image": {
-        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/ski-storage.png",
-        "alt": "бебе мечка шкафчета"
-      },
-      "button": {
-        "text": "sold out",
-        "link": {
-          "pathname": "#",
-          "query": {
-            "locker": "small"
-          }
-        }
-      },
-      "features": [
-        {
-          "text": "from лв 50 bgn per month",
-          "details": []
-        },
-        {
-          "text": "¼ of a square metre",
-          "details": []
-        },
-        {
-          "text": "размери на шкафчетата:",
-          "details": [
-            "0,5 метра дълбочина",
-            "0,5 метра ширина",
-            "2,3 метра височина"
-          ]
-        },
-        {
-          "text": "размери на вратата:",
-          "details": [
-            "0,4 метра ширина",
-            "1,8 метра височина"
-          ]
-        },
-        {
-          "text": "функции за сигурност:",
-          "details": [
-            "външен запис на видеонаблюдение",
-            "сигурно заключване и закопчалка"
-          ]
-        },
-        {
-          "text": "типични приложения:",
-          "details": [
-            "ски и сноуборд",
-            "обемни ски дрехи и зимна екипировка",
-            "ботуши и обувки",
-            "по-малки предмети за багаж",
-            "книги",
-            "малки електронни предмети",
-            "инструменти и оборудване"
-          ]
-        }
-      ]
-    },
-    {
       "title": "мама мечка",
       "description": [
         "място за велосипеди, кутии, малки мебели и багаж"
@@ -168,7 +101,7 @@
       },
       "features": [
         {
-          "text": "from лв 100 bgn per month",
+          "text": "from лв 600 bgn quarterly",
           "details": []
         },
         {
@@ -233,7 +166,7 @@
       },
       "features": [
         {
-          "text": "from лв 300 bgn per month",
+          "text": "from лв 900 bgn quarterly",
           "details": []
         },
         {
@@ -268,6 +201,70 @@
             "мотоциклети или гараж с четириколки",
             "инструменти и оборудване за работилници",
             "големи мебелни предмети"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "баба мечка",
+      "description": [
+        "достатъчно голям за дивани, легла и шкафове."
+      ],
+      "icon": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/baby-bear-icon.png",
+        "alt": "баба мечка icon"
+      },
+      "image": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/cube-storage.png",
+        "alt": "баба мечка шкафчета"
+      },
+      "button": {
+        "text": "sold out",
+        "link": {
+          "pathname": "#",
+          "query": {
+            "locker": "larger"
+          }
+        }
+      },
+      "features": [
+        {
+          "text": "from лв 1.100 bgn quarterly",
+          "details": []
+        },
+        {
+          "text": "7.5 square metres",
+          "details": []
+        },
+        {
+          "text": "размери на шкафчетата:",
+          "details": [
+            "3,5 метра дълбочина",
+            "2 метра ширина",
+            "2,3 метра височина"
+          ]
+        },
+        {
+          "text": "размери на вратата:",
+          "details": [
+            "0.9 метра ширина",
+            "2 метра височина"
+          ]
+        },
+        {
+          "text": "функции за сигурност:",
+          "details": [
+            "външен запис на видеонаблюдение",
+            "сигурно заключване и закопчалка"
+          ]
+        },
+        {
+          "text": "типични приложения:",
+          "details": [
+            "велосипеди и оборудване за упражнения",
+            "инструменти и оборудване",
+            "дребни мебелни предмети",
+            "по-голям багаж, кутии или каси"
           ]
         }
       ]
@@ -327,7 +324,7 @@
       },
       "features": [
         {
-          "text": "from лв 40 bgn per month",
+          "text": "from лв 180 bgn quarterly",
           "details": [
             "1 year: лв 440.00 bgn",
             "1 month: лв 40.00 bgn"
@@ -359,7 +356,7 @@
       },
       "features": [
         {
-          "text": "from лв 40 bgn per month",
+          "text": "from лв 180 bgn quarterly",
           "details": [
             "1 year: лв 440.00 bgn",
             "1 month: лв 40.00 bgn"

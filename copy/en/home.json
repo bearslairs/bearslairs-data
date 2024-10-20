@@ -81,73 +81,6 @@
   ],
   "cards": [
     {
-      "title": "baby bear's lair",
-      "description": [
-        "a safe place for snowboards, skis, winter gear and boots"
-      ],
-      "icon": {
-        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/baby-bear-icon.png",
-        "alt": "baby bear icon"
-      },
-      "image": {
-        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/ski-storage.png",
-        "alt": "baby bear lockers"
-      },
-      "button": {
-        "text": "sold out",
-        "link": {
-          "pathname": "#",
-          "query": {
-            "locker": "small"
-          }
-        }
-      },
-      "features": [
-        {
-          "text": "from лв 50 bgn per month",
-          "details": []
-        },
-        {
-          "text": "¼ of a square metre",
-          "details": []
-        },
-        {
-          "text": "0.575 cubic metres",
-          "details": [
-            "0.5 metres deep",
-            "0.5 metres wide",
-            "2.3 metres high"
-          ]
-        },
-        {
-          "text": "door dimensions:",
-          "details": [
-            "0.4 metres wide",
-            "1.8 metres high"
-          ]
-        },
-        {
-          "text": "security features:",
-          "details": [
-            "external cctv recording",
-            "secure lock and clasp"
-          ]
-        },
-        {
-          "text": "typical use:",
-          "details": [
-            "skis and snowboards",
-            "bulky ski clothing & winter gear",
-            "boots and shoes",
-            "smaller luggage items",
-            "books",
-            "smaller electronic items",
-            "tools and equipment"
-          ]
-        }
-      ]
-    },
-    {
       "title": "mama bear's lair",
       "description": [
         "space for bicycles, boxes, small furniture and luggage"
@@ -171,7 +104,7 @@
       },
       "features": [
         {
-          "text": "from лв 100 bgn per month",
+          "text": "from лв 600 bgn quarterly",
           "details": []
         },
         {
@@ -236,7 +169,7 @@
       },
       "features": [
         {
-          "text": "from лв 300 bgn per month",
+          "text": "from лв 900 bgn quarterly",
           "details": []
         },
         {
@@ -271,6 +204,70 @@
             "motorcycles or quadbike garage",
             "tools and workshop equipment",
             "larger furniture items"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "grandma bear's lair",
+      "description": [
+        "our largest locker.",
+        "big enough for sofas, beds and cabinets."
+      ],
+      "icon": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/baby-bear-icon.png",
+        "alt": "grandma bear icon"
+      },
+      "image": {
+        "url": "https://github.com/bearslairs/bearslairs-react/raw/master/src/img/furniture-storage.png",
+        "alt": "grandma bear lockers"
+      },
+      "button": {
+        "text": "sold out",
+        "link": {
+          "pathname": "#",
+          "query": {
+            "locker": "large"
+          }
+        }
+      },
+      "features": [
+        {
+          "text": "from лв 1,100 bgn quarterly",
+          "details": []
+        },
+        {
+          "text": "6 square metres",
+          "details": []
+        },
+        {
+          "text": "16 cubic metres",
+          "details": [
+            "3.5 metres deep",
+            "2 metres wide",
+            "2.3 metres high"
+          ]
+        },
+        {
+          "text": "door dimensions:",
+          "details": [
+            "1.8 metres wide",
+            "2 metres high"
+          ]
+        },
+        {
+          "text": "security features:",
+          "details": [
+            "external cctv recording",
+            "heavy duty lock and clasp"
+          ]
+        },
+        {
+          "text": "typical use:",
+          "details": [
+            "large tables",
+            "beds and bunkbeds",
+            "sofas"
           ]
         }
       ]
@@ -330,7 +327,7 @@
       },
       "features": [
         {
-          "text": "from лв 40 bgn per month",
+          "text": "from лв 180 bgn quarterly",
           "details": [
             "1 year: лв 440.00 bgn",
             "1 month: лв 40.00 bgn"
@@ -362,7 +359,7 @@
       },
       "features": [
         {
-          "text": "from лв 40 bgn per month",
+          "text": "from лв 180 bgn quarterly",
           "details": [
             "1 year: лв 440.00 bgn",
             "1 month: лв 40.00 bgn"
