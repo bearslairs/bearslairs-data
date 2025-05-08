@@ -30,7 +30,7 @@
           "image": "/img/about-notify.png"
         },
         {
-          "text": "individual lockers are secured with your own padlock. only you can decide who will have copies of your locker key and will have access to your secure locker. we do not keep copies of keys for booked lockers. if your keys are lost or stolen, we can remove the lock for a fee of bgn 20.00 but the lock will be destroyed.",
+          "text": "individual lockers are secured with your own padlock. only you can decide who will have copies of your locker key and will have access to your secure locker. we do not keep copies of keys for booked lockers. if your keys are lost or stolen, we can remove the lock for a fee of bgn 20 (€10) but the lock will be destroyed.",
           "image": "/img/about-security.png"
         },
         {
@@ -101,7 +101,7 @@
       },
       "features": [
         {
-          "text": "from лв 50 bgn per month",
+          "text": "from лв 50 bgn / €26 quarterly",
           "details": []
         },
         {
@@ -168,7 +168,7 @@
       },
       "features": [
         {
-          "text": "from лв 600 bgn quarterly",
+          "text": "from лв 600 bgn / €307 quarterly",
           "details": []
         },
         {
@@ -233,7 +233,7 @@
       },
       "features": [
         {
-          "text": "from лв 900 bgn quarterly",
+          "text": "from лв 900 bgn / €460 quarterly",
           "details": []
         },
         {
@@ -296,9 +296,9 @@
       },
       "features": [
         {
-          "text": "from лв 200 bgn per year",
+          "text": "from лв 200 bgn / €102 per year",
           "details": [
-            "1 year: лв 200.00 bgn"
+            "1 year: лв 200 bgn / €102"
           ]
         }
       ]
@@ -327,10 +327,10 @@
       },
       "features": [
         {
-          "text": "from лв 180 bgn quarterly",
+          "text": "from лв 180 bgn / €92 quarterly",
           "details": [
-            "1 year: лв 440.00 bgn",
-            "1 month: лв 40.00 bgn"
+            "1 year: лв 440 bgn / €225",
+            "1 month: лв 40 bgn / €20"
           ]
         }
       ]
@@ -359,10 +359,10 @@
       },
       "features": [
         {
-          "text": "from лв 180 bgn quarterly",
+          "text": "from лв 180 bgn / €92 quarterly",
           "details": [
-            "1 year: лв 440.00 bgn",
-            "1 month: лв 40.00 bgn"
+            "1 year: лв 440 bgn / €225",
+            "1 month: лв 40 bgn / €20"
           ]
         }
       ]
